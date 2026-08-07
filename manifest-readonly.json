@@ -1,0 +1,16 @@
+{
+  "name": "ABS Product Manager (Read Only)",
+  "short_name": "ABS Read Only",
+  "description": "Read-only product list viewer — search, select, export, no login",
+  "start_url": "./readonly.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#020c18",
+  "theme_color": "#020c18",
+  "icons": [
+    { "src": "icons/icon-readonly-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-readonly-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-readonly-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
