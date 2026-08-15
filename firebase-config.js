@@ -30,4 +30,4 @@ window.GOOGLE_DRIVE_CLIENT_ID = "494340429257-29n3u6cvllo1lpv7824vu2f9f1q8oh5a.a
 // 4) Owner UID — สำหรับ readonly.html เท่านั้น (ให้เปิดดูได้โดยไม่ต้อง login)
 //    หาได้ที่ Firebase Console > Authentication > Users > คอลัมน์ "User UID"
 //    (แถวของอีเมลที่ใช้ login หลัก) คัดลอกมาวางแทนที่ YOUR_UID ด้านล่าง
-window.ABS_OWNER_UID = "YOUR_UID"; // ⚠️ TODO ยังไม่ได้ใส่ค่าจริง — ถ้าเป็นแบบนี้ตอน deploy จริง readonly.html จะไม่มีข้อมูลขึ้นเลย
+window.ABS_OWNER_UID = "jnSebBxS58RIgDnbOBzYHTNdNI42";
